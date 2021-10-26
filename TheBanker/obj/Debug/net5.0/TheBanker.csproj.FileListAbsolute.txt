@@ -1,0 +1,16 @@
+C:\Users\dewet\Documents\Course21\Projects\Exercise3\TheBanker\bin\Debug\net5.0\TheBanker.exe
+C:\Users\dewet\Documents\Course21\Projects\Exercise3\TheBanker\bin\Debug\net5.0\TheBanker.deps.json
+C:\Users\dewet\Documents\Course21\Projects\Exercise3\TheBanker\bin\Debug\net5.0\TheBanker.runtimeconfig.json
+C:\Users\dewet\Documents\Course21\Projects\Exercise3\TheBanker\bin\Debug\net5.0\TheBanker.runtimeconfig.dev.json
+C:\Users\dewet\Documents\Course21\Projects\Exercise3\TheBanker\bin\Debug\net5.0\TheBanker.dll
+C:\Users\dewet\Documents\Course21\Projects\Exercise3\TheBanker\bin\Debug\net5.0\ref\TheBanker.dll
+C:\Users\dewet\Documents\Course21\Projects\Exercise3\TheBanker\bin\Debug\net5.0\TheBanker.pdb
+C:\Users\dewet\Documents\Course21\Projects\Exercise3\TheBanker\obj\Debug\net5.0\TheBanker.csproj.AssemblyReference.cache
+C:\Users\dewet\Documents\Course21\Projects\Exercise3\TheBanker\obj\Debug\net5.0\TheBanker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dewet\Documents\Course21\Projects\Exercise3\TheBanker\obj\Debug\net5.0\TheBanker.AssemblyInfoInputs.cache
+C:\Users\dewet\Documents\Course21\Projects\Exercise3\TheBanker\obj\Debug\net5.0\TheBanker.AssemblyInfo.cs
+C:\Users\dewet\Documents\Course21\Projects\Exercise3\TheBanker\obj\Debug\net5.0\TheBanker.csproj.CoreCompileInputs.cache
+C:\Users\dewet\Documents\Course21\Projects\Exercise3\TheBanker\obj\Debug\net5.0\TheBanker.dll
+C:\Users\dewet\Documents\Course21\Projects\Exercise3\TheBanker\obj\Debug\net5.0\ref\TheBanker.dll
+C:\Users\dewet\Documents\Course21\Projects\Exercise3\TheBanker\obj\Debug\net5.0\TheBanker.pdb
+C:\Users\dewet\Documents\Course21\Projects\Exercise3\TheBanker\obj\Debug\net5.0\TheBanker.genruntimeconfig.cache
