@@ -53,19 +53,32 @@ namespace TheBanker
                     Random generator = new Random();
                     string r = generator.Next(0, 999999).ToString("D6");
                     string accountNumber = startWith + r;
+                    Console.WriteLine("Account number: ");
+                    Console.WriteLine(accountNumber);
 
                     bank.Add(new BankAccount(accountName, initialBalance, accountNumber));
                     Console.WriteLine("Bank account added!");
                     Console.ReadLine();
                 }
 
-                // list accounts command to enable user to view each account (Number, Name, Balance)
+                // list accounts command to enable to view each account (Number, Name, Balance)
                 else if (userSelect == "2")
                 {
                     Console.WriteLine("List of accounts:");
                     Console.WriteLine(bank);
                 }
                     
+                // give user the option to view specific account details
+                // else if (userSelect == "3")
+                // {
+                //     string nameCheck = Console.ReadLine();
+                //     if (nameCheck = accountName)
+                //     {
+                //         Console.WriteLine("Account Number: " + accountNumber);
+                //         Console.WriteLine("Balance: " + initialBalance);
+                //     }
+                // }
+                
                 // close list if user select exit
                 else if (userSelect == "X")
                 {
